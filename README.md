@@ -38,9 +38,7 @@ Just import the files into your views folder and add a route to uikit.blade.php
   });
 ```
 
-<img width="1440" alt="Schermafbeelding 2022-02-16 om 08 50 56" src="https://user-images.githubusercontent.com/24842907/154219738-0c589092-158f-4843-8809-cba6ec16ec71.png">
+<img width="1440" src="https://user-images.githubusercontent.com/24842907/154219738-0c589092-158f-4843-8809-cba6ec16ec71.png">
 
-
-#
 
 
